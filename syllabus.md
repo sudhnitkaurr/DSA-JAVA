@@ -1,7 +1,7 @@
 - [X] [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
     - [x] [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
     - [X]  [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
-- [ ] [Flow of the program](https://youtu.be/lhELGQAV4gg)
+- [X] [Flow of the program](https://youtu.be/lhELGQAV4gg)
     - [ ] [Flowcharts](https://youtu.be/lhELGQAV4gg)
     - [ ]  [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)
 - [ ] [Introduction to Java](https://youtu.be/4EP8YzcN0hQ)
