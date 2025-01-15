@@ -9,7 +9,7 @@
     - [X]  [How it works](https://youtu.be/4EP8YzcN0hQ?t=93)
     - [X]  [Setup Installation](https://youtu.be/4EP8YzcN0hQ?t=1486)
     - [X]  [Input and Output in Java](https://youtu.be/TAtrPoaJ7gc)
-    - [X]  [Conditionals & Loops in Java](https://youtu.be/ldYLYRNaucM?t=88)
+    - [ ]  [Conditionals & Loops in Java](https://youtu.be/ldYLYRNaucM?t=88)
         - [ ] [if-else](https://youtu.be/ldYLYRNaucM?t=88)
         - [ ]  [loops](https://youtu.be/ldYLYRNaucM?t=440)
         - [ ] [Switch statements](https://youtu.be/mA23x39DjbI)
